@@ -1,6 +1,6 @@
 # Avvertenze mediche e nutrizionali
 
-**Ultimo aggiornamento:** 2026-09-30
+**Ultimo aggiornamento:** 2026-10-01
 
 ## 1. A cosa serve l'app
 
@@ -12,7 +12,7 @@ Le informazioni mostrate hanno uno scopo solo organizzativo e informativo. Non s
 
 ## 3. Valori nutrizionali indicativi
 
-Calorie e macronutrienti sono stime calcolate da banche dati pubbliche (indicate in Fonti) su valori medi degli alimenti: possono differire da quelli reali. Non sono obiettivi e non vanno usati per decisioni cliniche, per esempio per il dosaggio di farmaci o insulina.
+Calorie e macronutrienti sono stime calcolate da banche dati pubbliche (indicate in Fonti) su valori medi degli alimenti: possono differire da quelli reali. I valori dei prodotti scansionati provengono dall'etichetta così come dichiarata dal produttore e inserita da volontari (Open Food Facts) o da te: restano indicativi. Non sono obiettivi e non vanno usati per decisioni cliniche, per esempio per il dosaggio di farmaci o insulina.
 
 ## 4. A chi è rivolta
 

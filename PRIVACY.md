@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Ultimo aggiornamento:** 2026-09-30
+**Ultimo aggiornamento:** 2026-10-01
 
 ## In breve
 
-I tuoi dati restano sul tuo dispositivo e, se attivi la sincronizzazione, nel tuo iCloud privato. Non vengono inviati a nessun server dello sviluppatore né a terzi: lo sviluppatore non può vederli. L'app non ha account propri, pubblicità, strumenti di analisi o tracciamento.
+I tuoi dati restano sul tuo dispositivo e, con la sincronizzazione iCloud (attiva di serie, la spegni in Tu, Privacy e dati), nel tuo iCloud privato. Non vengono inviati a server dello sviluppatore né ad altri terzi. L'app si collega solo a Open Food Facts: quando scansioni un codice a barre non ancora salvato invia quel codice per leggerne i valori e, solo se scegli di condividere un prodotto nuovo, anche i dati e le foto di quel prodotto, pubblicati con l'account di NutriRoutine e senza il tuo nome. Non devi creare nessun account e l'app non ha pubblicità, strumenti di analisi o tracciamento.
 
 ## Titolare del trattamento
 
@@ -12,7 +12,7 @@ Antonio Scognamiglio, persona fisica, sviluppatore di NutriRoutine. Contatti: gi
 
 ## Quali dati usa l'app
 
-Il profilo che inserisci (il nome, facoltativo, e il peso di partenza); dati relativi alla salute: la dieta, i pasti registrati, i pesi e i controlli, i bicchieri d'acqua, le schede e gli allenamenti; lo stato della dispensa e la lista della spesa; i contatti del tuo nutrizionista se li inserisci. I dati relativi alla salute sono "categorie particolari" secondo l'articolo 9 del GDPR.
+Il profilo che inserisci (il nome, facoltativo, e il peso di partenza); dati relativi alla salute: la dieta, i pasti registrati, i pesi e i controlli, i bicchieri d'acqua, le schede e gli allenamenti; lo stato della dispensa e la lista della spesa; i prodotti che scansioni o inserisci (marca e valori dell'etichetta); i contatti del tuo nutrizionista se li inserisci. I dati relativi alla salute sono "categorie particolari" secondo l'articolo 9 del GDPR.
 
 ## Perché e su quale base
 
@@ -22,9 +22,9 @@ Solo per far funzionare l'app: mostrarti il piano, ricordarti pasti, acqua e con
 
 In locale sul tuo dispositivo, nel contenitore dell'app e dei suoi widget, protetto dalla cifratura di iOS legata al codice di sblocco. Se la sincronizzazione iCloud è attiva (Tu, Privacy e dati), una copia sta nel database privato del tuo account iCloud, gestito da Apple secondo le condizioni di iCloud che hai accettato: solo tu vi accedi con il tuo account. Con la Protezione avanzata dei dati di iCloud la copia è cifrata end-to-end. Notifiche e Live Activity sono generate dal dispositivo stesso.
 
-## Nessun invio a server esterni
+## Connessioni esterne
 
-L'app non ha server propri e non trasmette i tuoi dati a server esterni, allo sviluppatore o a terzi. Il database dei valori nutrizionali è incluso nell'app e si consulta senza connessione. I file che esporti (una dieta o un backup) vanno solo dove decidi tu.
+L'app non ha server propri. Quando scansioni un codice a barre non ancora salvato, invia solo quel codice a Open Food Facts (openfoodfacts.org) per leggerne i valori: la richiesta non contiene nessun dato che inserisci nell'app, a parte quanto previsto da qualunque connessione a Internet, come l'indirizzo IP del dispositivo, che Open Food Facts tratta secondo la propria informativa privacy. Se scegli di condividere un prodotto nuovo, nome, marca, quantità, valori e le foto che scatti per l'occasione vengono pubblicati su Open Food Facts con l'account di NutriRoutine, senza il tuo nome, e con le loro licenze (ODbL per i dati, CC BY-SA per le foto): diventano pubblici e chiunque può riutilizzarli. Le foto vengono inviate senza i dati di posizione. Anche in questo caso non invii dati del tuo profilo o della tua dieta, solo quelli del prodotto che condividi. La fotocamera serve solo a leggere il codice e a scattare quelle foto: le immagini non vengono salvate nell'app. Il database dei valori nutrizionali è incluso nell'app e si consulta senza connessione. I file che esporti (una dieta o un backup) vanno solo dove decidi tu.
 
 ## Per quanto tempo
 
