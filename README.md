@@ -38,9 +38,10 @@ Non crea diete e non dà consigli: organizza e ti ricorda il piano che hai ricev
 ## Funzionalità
 
 ### Dieta
-- Inserimento guidato della dieta settimanale, giorno per giorno, con ricerca tra circa 2.000 alimenti italiani, porzioni, crudo e cotto
+- Inserimento guidato della dieta settimanale, giorno per giorno, con ricerca tra circa 2.000 alimenti italiani, porzioni, crudo e cotto; se un alimento non c'è lo inserisci tu, con i valori dell'etichetta o copiati da un alimento simile
+- Modifica della dieta su una copia: le modifiche entrano in uso solo con **Salva**, oppure si scartano con **Annulla modifiche**
 - **Valori nutrizionali CREA 2019** (Tabelle di composizione degli alimenti, CREA Alimenti e Nutrizione) per circa 590 alimenti, USDA FoodData Central per gli altri
-- Oggi: il pasto imminente con conto alla rovescia, pulsante **Mangiato** (annullabile), sostituzioni secondo le regole del nutrizionista, sgarri
+- Oggi: il pasto imminente con conto alla rovescia, pulsante **Mangiato** (annullabile), sostituzioni secondo le regole del nutrizionista (dell'intero pasto o di un singolo alimento, con i limiti settimanali), sgarri
 - Vista Settimana e Giorno, pasti da registrare, dettaglio di ogni pasto
 - **Scambio di due giorni** della settimana in corso, quando il nutrizionista ti dice di invertirli: menu, orari e promemoria seguono lo scambio solo per quella settimana
 - **Valori nutrizionali** indicativi della giornata e di ogni pasto (kcal, proteine, carboidrati, grassi), con le fonti
@@ -55,7 +56,7 @@ Non crea diete e non dà consigli: organizza e ti ricorda il piano che hai ricev
 ### Spesa e dispensa
 - **Prepara la spesa** per oggi, domani, tre giorni o la settimana: spunti quello che hai già e confermi, il resto entra in lista con il giorno e il pasto in cui serve
 - Lista per giorno o per reparto, condivisione, promemoria per andare a fare la spesa
-- **Dispensa come magazzino**: le quantità comprate si sommano, quelle mangiate si scalano, "sta finendo" quando la scorta cala
+- **Dispensa come magazzino**: le quantità comprate si sommano, quelle mangiate si scalano, "sta finendo" quando la scorta cala; le voci aggiunte a mano si eliminano quando vuoi
 
 ### Codice a barre e "la tua marca"
 - Scansione del codice a barre in Spesa e Dispensa: il prodotto viene cercato su [Open Food Facts](https://world.openfoodfacts.org) e ne vedi i valori in etichetta
