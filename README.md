@@ -18,18 +18,18 @@
   <img src="https://img.shields.io/badge/price-free-brightgreen" alt="Gratuita" />
   <img src="https://img.shields.io/badge/lingue-italiano%20%7C%20english-green" alt="Italiano e inglese" />
   <img src="https://img.shields.io/badge/privacy-no%20tracking-blueviolet" alt="Nessun tracciamento" />
-  <img src="https://img.shields.io/badge/version-1.0-lightgrey" alt="Versione 1.0" />
+  <img src="https://img.shields.io/badge/version-1.3-lightgrey" alt="Versione 1.3" />
 </p>
 
 <p align="center">
-  <em>In arrivo sull'App Store</em>
+  <a href="https://apps.apple.com/it/app/nutriroutine/id6817822820"><strong>Disponibile sull'App Store</strong></a>
 </p>
 
 ---
 
 ## Descrizione
 
-NutriRoutine è un'app iOS gratuita per **seguire la dieta settimanale che ti ha dato il tuo nutrizionista**: cinque pasti al giorno, orari, alimenti e quantità, con il prossimo pasto sempre in vista sulla schermata di blocco e nella Dynamic Island.
+NutriRoutine è un'app iOS gratuita per **seguire la dieta settimanale che ti ha dato il tuo nutrizionista**: i pasti del giorno con orari, alimenti e quantità, gruppi come "Primo piatto" e alternative ("pollo oppure merluzzo"), con il prossimo pasto sempre in vista sulla schermata di blocco e nella Dynamic Island.
 
 Non crea diete e non dà consigli: organizza e ti ricorda il piano che hai ricevuto da un professionista. Accanto alla dieta gestisce la spesa, la dispensa, l'acqua, il peso con i controlli e la scheda di allenamento.
 
@@ -38,7 +38,10 @@ Non crea diete e non dà consigli: organizza e ti ricorda il piano che hai ricev
 ## Funzionalità
 
 ### Dieta
-- Inserimento guidato della dieta settimanale, giorno per giorno, con ricerca tra circa 2.000 alimenti italiani, porzioni, crudo e cotto; se un alimento non c'è lo inserisci tu, con i valori dell'etichetta o copiati da un alimento simile
+- Inserimento guidato della dieta settimanale, giorno per giorno, con ricerca tra circa 2.000 alimenti italiani: scrivi i grammi o conta le porzioni ("4 fette biscottate", "2 uova", "1 scatoletta"), latte e bevande in millilitri, crudo e cotto; se un alimento non c'è lo inserisci tu, con i valori dell'etichetta o copiati da un alimento simile
+- **Gruppi di alimenti** come sul foglio del nutrizionista ("Primo piatto": pasta, pomodoro, parmigiano) con il totale di riferimento, e **alternative** ("pollo oppure merluzzo") da scegliere il giorno stesso in Oggi o nel dettaglio: totali e spesa seguono la scelta
+- **Spuntino pre-nanna**, se la dieta lo prevede
+- Copia da ieri o su tutti i giorni
 - Modifica della dieta su una copia: le modifiche entrano in uso solo con **Salva**, oppure si scartano con **Annulla modifiche**
 - **Valori nutrizionali CREA 2019** (Tabelle di composizione degli alimenti, CREA Alimenti e Nutrizione) per circa 590 alimenti, USDA FoodData Central per gli altri
 - Oggi: il pasto imminente con conto alla rovescia, pulsante **Mangiato** (annullabile), sostituzioni secondo le regole del nutrizionista (dell'intero pasto o di un singolo alimento, con i limiti settimanali), sgarri
@@ -54,7 +57,8 @@ Non crea diete e non dà consigli: organizza e ti ricorda il piano che hai ricev
 - Comandi Siri e Comandi Rapidi
 
 ### Spesa e dispensa
-- **Prepara la spesa** per oggi, domani, tre giorni o la settimana: spunti quello che hai già e confermi, il resto entra in lista con il giorno e il pasto in cui serve
+- **Prepara la spesa** per oggi, domani, tre giorni o la settimana: spunti quello che hai già e confermi, il resto entra in lista con il giorno e il pasto in cui serve; scatolette e vasetti entrano **a confezioni**, con i grammi
+- Le voci dei pasti già passati escono da sole; un alimento già in lista si vede come "in lista"
 - Lista per giorno o per reparto, condivisione, promemoria per andare a fare la spesa
 - **Dispensa come magazzino**: le quantità comprate si sommano, quelle mangiate si scalano, "sta finendo" quando la scorta cala; le voci aggiunte a mano si eliminano quando vuoi
 
@@ -74,7 +78,8 @@ Non crea diete e non dà consigli: organizza e ti ricorda il piano che hai ricev
 ### Allenamento
 - Schede con esercizi a ripetizioni o a tempo, serie, recuperi, carico e note
 - **Schede a circuito** con i giri e il recupero tra un giro e l'altro
-- Esecuzione a tutto schermo con timer di serie e recupero, suono e vibrazione a fine passo
+- Esecuzione a tutto schermo con timer grande, "Preparati" con il 3-2-1, bip negli ultimi secondi del recupero, suoni di inizio e fine (mai con il silenzioso), "Poi: …" per sapere cosa viene dopo
+- **Integratori** indicati dal nutrizionista nella scheda, con promemoria prima, dopo o a un orario
 - **"Bevi un sorso"** durante il recupero e Live Activity dell'allenamento
 
 ### Sempre
@@ -82,6 +87,11 @@ Non crea diete e non dà consigli: organizza e ti ricorda il piano che hai ricev
 - Nessun account, nessuna pubblicità, nessun tracciamento: i tuoi dati restano sul dispositivo e nel tuo iCloud privato
 - Backup completo in un file per passare a un altro iPhone
 - Italiano e inglese, VoiceOver, Dynamic Type, modalità chiara e scura, iPhone e iPad
+
+## Novità
+
+**1.3** (21 ottobre 2026): gruppi di alimenti e alternative nella dieta, spuntino pre-nanna, quantità scrivibile e porzioni nel wizard, spesa a confezioni, integratori e suoni nell'allenamento, tante rifiniture dalla revisione di primo utilizzo.
+**1.0** (17 ottobre 2026): prima versione.
 
 ## Privacy
 
@@ -97,7 +107,7 @@ Quando scansioni un prodotto, l'app chiede a Open Food Facts i dati di quel codi
 
 ## English
 
-NutriRoutine is a free iOS and iPadOS app to follow the weekly diet your nutritionist gave you: meals and times, the next meal on the Lock Screen and in the Dynamic Island, groceries and pantry, water, weight and check-ups, workouts. It doesn't create diets or give advice. No account, no ads, no tracking. Privacy Policy: [PRIVACY.en.md](PRIVACY.en.md).
+NutriRoutine is a free iOS and iPadOS app to follow the weekly diet your nutritionist gave you: meals and times, food groups and alternatives, the next meal on the Lock Screen and in the Dynamic Island, groceries by package and pantry, water, weight and check-ups, workouts with supplements. [Download on the App Store](https://apps.apple.com/it/app/nutriroutine/id6817822820). It doesn't create diets or give advice. No account, no ads, no tracking. Privacy Policy: [PRIVACY.en.md](PRIVACY.en.md).
 
 ## Contatti
 
